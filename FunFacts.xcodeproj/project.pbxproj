@@ -50,7 +50,6 @@
 		55B9E9E91D39380500E14F23 /* FunFactsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunFactsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55B9E9ED1D39380500E14F23 /* FunFactsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsUITests.swift; sourceTree = "<group>"; };
 		55B9E9EF1D39380500E14F23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		55B9E9FB1D39399B00E14F23 /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Scratchpad.playground; sourceTree = "<group>"; };
 		55E1BAF81D427D330049C52B /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -136,7 +135,6 @@
 		55B9E9FC1D3939C500E14F23 /* Playgrounds */ = {
 			isa = PBXGroup;
 			children = (
-				55B9E9FB1D39399B00E14F23 /* Scratchpad.playground */,
 			);
 			name = Playgrounds;
 			sourceTree = "<group>";
