@@ -1,6 +1,6 @@
 # _Fun Facts_
 
-#### _This is a simple iOS app for displaying interesting facts. 07/22/2016_
+#### _This is a simple iOS app for displaying interesting facts, July 22nd, 2016_
 
 #### By _**David Remington**_
 
